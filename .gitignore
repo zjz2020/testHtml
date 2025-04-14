@@ -10,6 +10,8 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+# 添加最终输出忽略配置
+docs
 *.local
 
 # Editor directories and files
